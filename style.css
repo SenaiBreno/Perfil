@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(to right, slateblue, lightblue);
+    background: linear-gradient(to right, rgb(0, 74, 117), lightblue);
     color: white;
     font-family: "Trebut MS";
   }
@@ -8,8 +8,8 @@ body {
     font-size: 24px;
   }
   a {
-    background-color: slateblue;
-    color: white;
+    background-color: white;
+    color: rgb(0, 96, 160);
     font-size: 20px;
     padding: 10px;
     border-radius: 10px;
