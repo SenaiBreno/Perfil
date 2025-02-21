@@ -1,4 +1,4 @@
-body {
+  body {
     text-align: center;
     background: linear-gradient(to right, rgb(0, 74, 117), lightblue);
     color: white;
@@ -16,6 +16,8 @@ body {
     margin: 10px;
     display: block;
     text-decoration: none;
+    min-width: 400px;
+    max-width: 400px;
   }
   img {
     border-radius: 75px;
@@ -38,4 +40,3 @@ body {
       transform: translateY(-5px);
     }
   }
-  
